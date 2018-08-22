@@ -1,5 +1,5 @@
 +++
-title = "Contact"
-type = "contact"
+title = "About"
+type = "about"
 page="/contact.html"
 +++
